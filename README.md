@@ -1,12 +1,15 @@
 # Lavender Wedding Invitation Website
 
 ## Open in VS Code
-1. Extract the ZIP file.
-2. Open the `lavender_wedding_invitation` folder in VS Code.
-3. Open `index.html` in your browser, or use the VS Code Live Server extension.
+1. Open the repository folder in VS Code.
+2. Open `index.html` in your browser, or use the VS Code Live Server extension.
+
+## Deploy
+This is a static website. Upload the repository or set the deployment
+publish directory to the repository root, which contains `index.html`.
 
 ## Customize first
-- Couple names: search `Aarav` and `Kiara` in `index.html`.
+- Couple names: update the names in `index.html`.
 - Wedding date/time: update the date in `index.html` and `script.js`.
 - Events, venue and map: edit the event cards and venue section in `index.html`.
 - Colors and layout: edit CSS variables at the top of `style.css`.
